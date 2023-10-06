@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\bin\Debug\net6.0\FundamentosI.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\bin\Debug\net6.0\FundamentosI.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\bin\Debug\net6.0\FundamentosI.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\bin\Debug\net6.0\FundamentosI.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\bin\Debug\net6.0\FundamentosI.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\refint\FundamentosI.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\FundamentosI.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\FundamentosI\obj\Debug\net6.0\ref\FundamentosI.dll
